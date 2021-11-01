@@ -3,12 +3,13 @@ Find the given pattern, if number of rows are given.
 ### Input
 N = 4
 ### Output
-1     1
-12   21
-123 321
+1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   1  
+12 &nbsp;&nbsp;&nbsp;&nbsp;21  
+123 321  
 1234321
 
-`
+
+```
 #include<iostream>
 using namespace std;
 int main(){
@@ -35,4 +36,4 @@ int main(){
 }
 
 
-`
+```
