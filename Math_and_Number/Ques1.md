@@ -3,18 +3,22 @@ Given a list of number, stop processing input after the cumulative sum of input 
 
 ### Input
  
- 1
- 2
- 88
- -100
+ 1  
+ 2  
+ 88  
+-100
+ 
+ 
 
  ### Output
 
- 1
- 2
+ 1  
+ 2  
  88
 
- `
+
+## Code
+ ```
 #include<iostream>
 using namespace std;
 int main()
@@ -36,4 +40,4 @@ cin>>t;
 }
 return 0;
 }
- `
+ ```
