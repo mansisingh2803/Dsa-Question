@@ -8,14 +8,14 @@ Find the given pattern, if number of rows are given.
 N = 6
 
 ### Output
-1
-11
-111
-1001
-11111
+1  
+11  
+111  
+1001  
+11111  
 100001
 
-`
+```
 #include <iostream>
 using namespace std;
 int main(){
@@ -38,5 +38,5 @@ int main(){
     }
 }
 
-`
+```
 
